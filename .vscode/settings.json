@@ -1,0 +1,7 @@
+{
+    "python.testing.pytestArgs": [
+        "Docagent Automation"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
